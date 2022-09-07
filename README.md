@@ -25,8 +25,8 @@ You can find detailed syllabus at [here](./syllabus.md).
 ---
 
 <p align="center">
-  <img src="./algologo.svg">
-  <a href="//ituacm.com" target="_blank">
+  <a href="//ituacm.com" target="_blank" float="left">
+    <img src="./algologo.png" width="157px">
     <img src="https://ituacm.com/wp-content/uploads/2017/08/itu-logo.png">
   </a>
 </p>
