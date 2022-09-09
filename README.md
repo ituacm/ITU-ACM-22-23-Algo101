@@ -2,7 +2,6 @@
 
 ## Prerequisities
 
-- Being a student at ITU.
 - Knowledge at C or C++.
 - Interest and curiosity in algorithms.
 
@@ -25,5 +24,5 @@ You can find detailed syllabus at [here](./syllabus.md).
 ---
 
 <p align="center">
-    <img src="./algologo.png" width="50%">
+    <img src="./algologo.png" width="36%">
 </p>
