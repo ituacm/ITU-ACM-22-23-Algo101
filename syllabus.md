@@ -76,7 +76,6 @@
                 Graphs
                 <ul>
                     <li>DFS & BFS</li>
-                    <li>Union Find</li>
                     <li>Topological Sort</li>
                 </ul>
             </li>
@@ -84,6 +83,7 @@
                 Trees
                 <ul>
                     <li>Tree Traversals</li>
+                    <li>Binary Search Tree</li>
                 </ul>
             </li>
         </ul>
@@ -99,10 +99,10 @@
                 <ul>
                     <li>Dijkstra's Algorithm</li>
                     <li>Prim's Algorithm</li>
+                    <li>Union Find</li>
                     <li>Kruskal's Algorithm</li>
                 </ul>
             </li>
-            <li>Binary Search Tree</li>
         </ul>
     </li>
     <li>
