@@ -70,7 +70,7 @@
         </ul>
     </li>
     <li>
-        Week - Graphs & Trees
+        Week - Graphs & Trees & Binary Search Tree
         <ul>
             <li>
                 Graphs
@@ -92,7 +92,7 @@
         Contest Week
     </li>
     <li>
-        Week - Graph Related Problems & Binary Search Tree
+        Week - Graph Related Problems
         <ul>
             <li>
                 Graph Related Problems
