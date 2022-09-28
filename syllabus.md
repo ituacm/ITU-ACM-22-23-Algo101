@@ -70,13 +70,12 @@
         </ul>
     </li>
     <li>
-        Week - Graphs & Trees
+        Week - Graphs & Trees & Binary Search Tree
         <ul>
             <li>
                 Graphs
                 <ul>
                     <li>DFS & BFS</li>
-                    <li>Union Find</li>
                     <li>Topological Sort</li>
                 </ul>
             </li>
@@ -84,6 +83,7 @@
                 Trees
                 <ul>
                     <li>Tree Traversals</li>
+                    <li>Binary Search Tree</li>
                 </ul>
             </li>
         </ul>
@@ -92,17 +92,17 @@
         Contest Week
     </li>
     <li>
-        Week - Graph Related Problems & Binary Search Tree
+        Week - Graph Related Problems
         <ul>
             <li>
                 Graph Related Problems
                 <ul>
                     <li>Dijkstra's Algorithm</li>
                     <li>Prim's Algorithm</li>
+                    <li>Union Find</li>
                     <li>Kruskal's Algorithm</li>
                 </ul>
             </li>
-            <li>Binary Search Tree</li>
         </ul>
     </li>
     <li>
