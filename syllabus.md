@@ -54,11 +54,11 @@
         <ul>
             <li>Data Structures
                 <ul>
+                    <li>Linked List</li>
                     <li>Stack</li>
                     <li>Queue</li>
                     <li>Deque</li>
                     <li>Priority Queue</li>
-                    <li>Linked List</li>
                 </ul>
             </li>
             <li>Introduction to Graphs & Trees
