@@ -15,8 +15,8 @@
 
 - Check /LaTex Source Code for .cpp files.
 - Question Links:
-  - (Path Sum II)[https://leetcode.com/submissions/detail/761526188/]
-  - (Number of Provinces)[https://leetcode.com/submissions/detail/761730196/]
-  - (Course Schedule)[https://leetcode.com/submissions/detail/811277616/]
-  - (Convert Sorted Array to BST)[https://leetcode.com/submissions/detail/751458695/]
-  - (Validate Binary Search Tree)[https://leetcode.com/submissions/detail/787225539/]
+  - [Path Sum II](https://leetcode.com/submissions/detail/761526188/)
+  - [Number of Provinces](https://leetcode.com/submissions/detail/761730196/)
+  - [Course Schedule](https://leetcode.com/submissions/detail/811277616/)
+  - [Convert Sorted Array to BST](https://leetcode.com/submissions/detail/751458695/)
+  - [Validate Binary Search Tree](https://leetcode.com/submissions/detail/787225539/)
