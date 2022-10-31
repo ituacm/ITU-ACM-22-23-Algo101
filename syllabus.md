@@ -70,9 +70,6 @@
         </ul>
     </li>
     <li>
-        Week - Contest Week
-    </li>
-    <li>
         Week - Graphs & Trees & Binary Search Tree
         <ul>
             <li>
