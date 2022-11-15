@@ -1,13 +1,21 @@
 /*
 Question Link: https://www.hackerrank.com/contests/itu-acm-algo-101-contest-22-23/challenges/the-city-of-g
 
-The problem statement says that both ways should be checked, for this reason, the "compute" function is implemented. It is called twice, once with _reverse parameter as true and once as false. Obviously, with it set as true, the input is going through a reversion process. Thus we can solve the problem only for one direction.
+The problem statement says that both ways should be checked, for this reason, the "compute" function is implemented. 
+It is called twice, once with _reverse parameter as true and once as false. Obviously, with it set as true, the input 
+is going through a reversion process. Thus we can solve the problem only for one direction.
 
-In the implementation below in the "compute" function boys are running to the right, i.e. from 0 to n-1. "a" is the position of the faster one, and "b" is of the slower one. "b" is incremented every two seconds, while for "a" two pointers are calculating the next position, updated every second. 
+In the implementation below in the "compute" function boys are running to the right, i.e. from 0 to n-1. "a" is the 
+position of the faster one, and "b" is of the slower one. "b" is incremented every two seconds, while for "a" two pointers 
+are calculating the next position, updated every second. 
 
-"p1" saves position to the farthest monument "a" boy can jump to, while "p2" linearly searches for possible landing spots. When the monument of "p2" has the same altitude as the one at "p1", "p1" is updated to be "p2", since it is desired to go as far as possible. Besides jumping over a couple of monuments, "a" boy can simply jump to the next one. To decide which one is better the maximum between "p2" and "a+1" is taken and assigned to "a". This is how "a" moves at every iteration.
+"p1" saves position to the farthest monument "a" boy can jump to, while "p2" linearly searches for possible landing spots. 
+When the monument of "p2" has the same altitude as the one at "p1", "p1" is updated to be "p2", since it is desired to go 
+as far as possible. Besides jumping over a couple of monuments, "a" boy can simply jump to the next one. To decide which 
+one is better the maximum between "p2" and "a+1" is taken and assigned to "a". This is how "a" moves at every iteration.
 
-If after one iteration "b" becomes more than or equal to n, this means that "b" has escaped the street. However if "a" becomes more than or equal to "b", "b" is caught. The function returns true and false respectively.
+If after one iteration "b" becomes more than or equal to n, this means that "b" has escaped the street. However if "a" 
+becomes more than or equal to "b", "b" is caught. The function returns true and false respectively.
 
 */
 
